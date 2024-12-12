@@ -53,7 +53,6 @@ img {
     display: inline-block;
     width: 20%;
     background: #fff;
-
 }
 
 .article {
@@ -71,9 +70,9 @@ img {
 
 .info {
     display: inline-block;
-    width: 45%;
-    margin: 10px;
-    padding: 2em 1.2em;
+    width: 49%;
+    /* margin: 10px;
+    padding: 2em 1.2em; */
 }
 
 .contact {
